@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "site_fabio",
+    "slug": "site_fabio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
